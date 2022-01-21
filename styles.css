@@ -34,7 +34,7 @@ main {
 .header {
   gap: 0.5em;
 }
-.portrait {
+img {
   width: 100px;
   border-radius: 50%;
 }
